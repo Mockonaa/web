@@ -2,18 +2,25 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "modpack 1.7.10",
+      "title" : "modpack 1.7.10 (Live)",
       "name" : "modpack 1.7.10",
       "version" : "2021-05-13-16-58-44",
-      "location" : "fcghgfgtg.json",
-      "priority" : 1
+      "location" : "modpack-1.7.10.json",
+      "priority" : 2
+    },
+    {
+      "title" : "modpack 1.7.10 (Test)",
+      "name" : "modpack 1.7.10_tst",
+      "version" : "2021-05-13-16-58-44",
+      "location" : "modpack-1.7.10.json",
+      "priority" : 0
     },
     {
       "title" : "fcghgfgtg (Live)",
       "name" : "fcghgfgtg",
       "version" : "2021-05-13-16-10-14",
       "location" : "fcghgfgtg.json",
-      "priority" : 0
+      "priority" : 1
     }
   ]
 }
